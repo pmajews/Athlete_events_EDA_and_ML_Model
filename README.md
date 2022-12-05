@@ -34,4 +34,6 @@
 
 ### Random Forest Model - report
 
+Model predicts Sex of an Athletes based on Age, Height, Weight, Year
+
 ![b](./readme_images/report.png)
